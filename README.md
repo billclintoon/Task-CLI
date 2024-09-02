@@ -1,14 +1,4 @@
 # Task-CLI
-Apikasi terminal untuk membuat Task dengan fitur 
--membuat Task 
--mengupdate status Task
--menghapus Task
--menampilkan list Task
--dilengkapi fitur Waktu dan Tanggal
--ditampilkan ke Json
-
-Cara penggunaan 
-# Task-CLI
 ## _Apikasi terminal untuk membuat Task dengan fitur_
 ## Features
 - membuat Task 
