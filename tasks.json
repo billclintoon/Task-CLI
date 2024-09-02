@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Complete the JavaScript project by Monday",
+        "status": "in-progress",
+        "createdAt": "2024-09-02T05:20:27.927Z",
+        "updatedAt": "2024-09-02T05:22:14.414Z"
+    },
+    {
+        "id": 2,
+        "description": "Project Go",
+        "status": "done",
+        "createdAt": "2024-09-02T05:28:59.394Z",
+        "updatedAt": "2024-09-02T05:30:49.033Z"
+    },
+    {
+        "id": 3,
+        "description": "New Project Css",
+        "status": "todo",
+        "createdAt": "2024-09-02T05:31:27.237Z",
+        "updatedAt": "2024-09-02T05:31:27.238Z"
+    }
+]
